@@ -1,0 +1,28 @@
+li {
+    margin-right: 10px;
+}
+
+.concluida {
+    color: green;
+    text-decoration: line-through;
+}
+select {
+    margin: 10px;
+}
+button{
+    margin-left: 10px;
+}
+body {
+    height: 90vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    border: solid, 1px, black;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 5px;
+    height: 300px;
+}
