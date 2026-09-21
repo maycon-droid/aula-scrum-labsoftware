@@ -50,6 +50,7 @@ function adicionarTarefa() {
         li.classList.add("concluida");
     } else {
         li.classList.remove("concluida");
+        li.classlist.add("pendente");
     }
 });
     li.appendChild(span);
